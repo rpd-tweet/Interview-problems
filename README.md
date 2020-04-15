@@ -1,6 +1,6 @@
 # Interview-problems
 
-***Strings and Arrays
+**Strings and Arrays
 
 2.LinkedList
 
