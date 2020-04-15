@@ -1,10 +1,10 @@
 # Interview-problems
 
--Strings and Arrays
+* Strings and Arrays
 
--LinkedList
+* LinkedList
 
--Stacks
+* Stacks
 
--Trees
+* Trees
 
